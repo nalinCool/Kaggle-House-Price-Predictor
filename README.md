@@ -1,7 +1,7 @@
 # Kaggle House Prices: Advanced Regression Techniques
 [House Prices: Advanced Regression Techniques
 Competition on Kaggle](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
-#### Shitao Wang submission version 1
+#### Nalin Shiva
 
 ### Install
 
@@ -13,7 +13,6 @@ This project requires **Python 2.7** and the following Python libraries installe
 - [scikit-learn](http://scikit-learn.org/stable/)
 - [XGBoost](https://xgboost.readthedocs.io/en/latest/)
 
-You will also need to have software installed to run and execute an [iPython Notebook](http://ipython.org/notebook.html)
 
 ### Code
 
